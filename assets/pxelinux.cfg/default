@@ -2,4 +2,4 @@ DEFAULT -
 LABEL -
 MENU LABEL Load iPXE (for faster installs)
   KERNEL ipxe.lkrn
-  APPEND dhcp && chain http://10.0.2.2/
+  APPEND dhcp && chain http://10.8.3.50/
